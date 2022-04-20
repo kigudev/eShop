@@ -6,8 +6,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-._*
-.DS_Store
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -261,7 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-/Bordify/._Bordify.sln
-/Bordify/Bordify/Bordify.Droid/._Bordify.Droid.csproj
-/Bordify/Web/Bordify.Web/wwwroot/media
-Bordify/Web/WebServer/wwwroot/media
+*.DS_Store
+._*
+/tools
